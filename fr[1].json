@@ -1,0 +1,11 @@
+{
+    "key_with_plurals": {
+        "one": "",
+        "other": ""
+    },
+    "key_with_placeholder": "",
+    "main.view.more": "Afficher les messages",
+    "validation.required": "",
+    "signup_button": "S'inscrire maintenant",
+    "welcome_header": "Bienvenue à Lokalise !"
+}
